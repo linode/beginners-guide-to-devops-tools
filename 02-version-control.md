@@ -12,4 +12,4 @@ This enables teams to compare differences or and determine problematic code sect
 Note: In recent years, version control systems have led to a branch of DevOps called “GitOps.” In GitOps, Git repositories are used as the one source of truth while traditional DevOps uses application configuration files. DevOps can be viewed as a culture while GitOps focuses more on specific tools and techniques.
 
 * [02 Version Control](./02-version-control.md)
-*   - [03 Github](./03-github.md)
+  * [03 Github](./03-github.md)
