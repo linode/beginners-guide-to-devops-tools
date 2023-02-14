@@ -2,7 +2,7 @@
 A key component of DevOps is a **C**ontinuous **I**ntegration and **C**ontinuous **D**eployment (CI/CD). CI/CD pipelines are designed to improve software delivery by automating steps for building, testing, production, and monitoring of the software development lifecycle. This enables teams to develop code faster and more reliably while bringing development and operational teams together.
 
 
-![Image](https://justin-test.us-east-1.linodeobjects.com/placeholder.png)
+![Image](https://github.com/linode/beginners-guide-to-devops-tools/blob/main/docs/assets/images/1-1.jpg)
 
 
 ### What is Continuous Integration?
