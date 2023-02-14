@@ -37,12 +37,14 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
-plugins: # previsously gems
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
+# theme: jekyll-theme-basically-basic
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+#  - jekyll-feed
+#  - jekyll-seo-tag
+#  - jekyll-sitemap
+#  - jekyll-paginate
 feed:
   path: atom.xml
 
@@ -83,3 +85,5 @@ defaults:
     values:
       layout: post
       read_time: true
+      
+
