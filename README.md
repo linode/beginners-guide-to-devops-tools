@@ -15,7 +15,7 @@ DevOps, a combination of **Dev**elopment and **Op**eration**s**, is as much a ch
 
 DevOps methods aim to speed up the cycle from idea (e.g. new feature, fix, or improvement) to development to production deployment for end user impact. This requires open and organized communication with flexible and scalable infrastructure tools. Developers are empowered with technologies focused on automation and self service to enable quick deployments for building, testing, and releasing.
 
-![Image](https://justin-test.us-east-1.linodeobjects.com/placeholder.png)
+![Image](https://github.com/linode/beginners-guide-to-devops-tools/blob/main/images/0-1.jpg)
 
 *DevOps: Plan > Code > Build > Test > Release > Deploy > Operate > Monitor > Plan > ∞*
 
@@ -23,7 +23,7 @@ This guide will largely focus on Version Control for the Code/Build phases, Infr
 
 *Note that many of these tools are flexable and may be used in multiple phases throughout the lifecycle.*
 
-![Image](https://github.com/jcobbett-linode/beginners-guide-to-devops-tools/blob/main/images/drafts/0-2.png)
+![Image](https://github.com/linode/beginners-guide-to-devops-tools/blob/main/images/0-2.jpg)
 
 #### Additional Tools for Each Phase
 
