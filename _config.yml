@@ -18,14 +18,14 @@ title: Beginner's Guide to DevOps
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://linode.github.io/beginners-guide-to-devops-tools/
+url: "https://linode.github.io/beginners-guide-to-devops-tools/"
 author:
   name:
   twitter:
   picture:
 twitter_username:
 github_username:
-logo: ./assets/images/akamai.svg
+logo: "./assets/images/akamai.svg"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
