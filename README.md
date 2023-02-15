@@ -22,7 +22,7 @@ DevOps methods aim to speed up the cycle from idea (e.g. new feature, fix, or im
 
 This guide will largely focus on Version Control for the Code/Build phases, Infrastructure as Code for the Deploy/Operate phases, and CI/CD Automation for the entire pipeline. 
 
-*Note that many of these tools are flexable and may be used in multiple phases throughout the lifecycle.*
+*Note that many of these tools are flexible and may be used in multiple phases throughout the product lifecycle.*
 
 ![Image](./assets/images/0-2.jpg)
 
