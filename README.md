@@ -15,7 +15,7 @@ DevOps, a combination of **Dev**elopment and **Op**eration**s**, is as much a ch
 
 DevOps methods aim to speed up the cycle from idea (e.g. new feature, fix, or improvement) to development to production deployment for end user impact. This requires open and organized communication with flexible and scalable infrastructure tools. Developers are empowered with technologies focused on automation and self service to enable quick deployments for building, testing, and releasing.
 
-![Image](./assets/images/0-1.png)
+![Image](./assets/images/0-1.jpg)
 
 *DevOps: Plan > Code > Build > Test > Release > Deploy > Operate > Monitor > Plan > ∞*
 
