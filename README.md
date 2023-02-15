@@ -3,12 +3,12 @@ An Introduction to DevOps enablement technologies. This guide will provide backg
 
 * [01 Introduction to CI/CD](./01-introduction-to-ci-cd.md)
 * [02 Version Control](./02-version-control.md)
-  * [03 GitHub](./03-github.md)
+  - [03 GitHub](./03-github.md)
 * [04 CI/CD Pipeline Automation](./04-ci-cd-automation.md)
-  * [05 Jenkins](./05-jenkins.md)
+  - [05 Jenkins](./05-jenkins.md)
 * [06 Infrastructure as Code](./06-infrastructure-as-code.md)
-  * [07 Terraform](./07-terraform.md)
-  * [08 Ansible](./08-ansible.md)
+  - [07 Terraform](./07-terraform.md)
+  - [08 Ansible](./08-ansible.md)
 
 ## DevOps in a Nutshell
 DevOps, a combination of **Dev**elopment and **Op**eration**s**, is as much a change in procedural mindset as it is a set of tools. Ultimately, running separate teams completely dedicated to operational tasks and software development is impractical when designing applications that have constantly growing scale and requirements. 
