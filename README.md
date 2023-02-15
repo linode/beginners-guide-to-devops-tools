@@ -5,10 +5,8 @@ An Introduction to DevOps enablement technologies. This guide will provide backg
 
 * [02 Version Control](./02-version-control.md)
   - [03 GitHub](./03-github.md)
-
 * [04 CI/CD Pipeline Automation](./04-ci-cd-automation.md)
   - [05 Jenkins](./05-jenkins.md)
-
 * [06 Infrastructure as Code](./06-infrastructure-as-code.md)
   - [07 Terraform](./07-terraform.md)
   - [08 Ansible](./08-ansible.md)
