@@ -18,14 +18,14 @@ title: Beginner's Guide to DevOps
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: "https://linode.github.io/beginners-guide-to-devops-tools/"
+url:
 author:
   name:
   twitter:
   picture:
 twitter_username:
 github_username:
-logo: "./assets/images/akamai.svg"
+logo:
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
@@ -38,7 +38,7 @@ algolia:
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-basically-basic
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 #  - jekyll-feed
@@ -47,7 +47,7 @@ plugins:
 #  - jekyll-paginate
 feed:
   path: atom.xml
-
+show_downloads: false
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/
