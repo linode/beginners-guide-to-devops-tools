@@ -1,4 +1,4 @@
-# beginners-guide-to-devops-tools
+# Beginner's Guide to DevOps Tools
 An Introduction to DevOps enablement technologies. This guide will provide background information and working labs on some of the most common DevOps tools in use today. 
 
 * [01 Introduction to CI/CD](./01-introduction-to-ci-cd.md)
