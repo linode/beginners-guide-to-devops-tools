@@ -2,7 +2,6 @@
 An Introduction to DevOps enablement technologies. This guide will provide background information and working labs on some of the most common DevOps tools in use today. 
 
 * [01 Introduction to CI/CD](./01-introduction-to-ci-cd.md)
-
 * [02 Version Control](./02-version-control.md)
   - [03 GitHub](./03-github.md)
 * [04 CI/CD Pipeline Automation](./04-ci-cd-automation.md)
