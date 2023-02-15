@@ -5,7 +5,7 @@ This enables teams to compare differences or and determine problematic code sect
 
 
 
-![Image](https://github.com/linode/beginners-guide-to-devops-tools/blob/main/docs/assets/images/2-1.jpg)
+![Image](./assets/images/2-1.jpg)
 
 *Distributed Version Control - Everyone can work concurrently or compare differences to pinpoint incompatible changes.*
 
@@ -13,3 +13,6 @@ Note: In recent years, version control systems have led to a branch of DevOps ca
 
 * [02 Version Control](./02-version-control.md)
   * [03 Github](./03-github.md)
+
+---
+[Back Home](./README.md)
